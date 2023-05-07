@@ -125,3 +125,15 @@
 .abc{
     margin-left: 15px;
 }
+
+.blog{
+    display: inline-block;
+    margin-left: 350px;
+}
+
+.vlog{
+    font-size: 30px;
+    font-weight: bold;
+    color:white;
+    font-family: 'Courier New', Courier, monospace;
+}
