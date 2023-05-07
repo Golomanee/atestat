@@ -1,0 +1,127 @@
+.butoane{
+    height: 95px;
+    font-size: 20px;
+    width: 90px;
+    font-family: 'Times New Roman', Times, serif;
+    border-style: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color:white;
+    background-color:rgb(139, 169, 140);;
+    vertical-align: middle;
+}
+.p{
+    font-family: 'Times New Roman', Times, serif;
+}
+.butone{
+    display: inline-block;
+    height: 70px;
+    width: 70px;
+    padding-left: 20px;
+    margin-left: 15px;
+}
+.butoane:hover{
+    background-color: rgb(82, 121, 111);
+    transition: 0.8s;
+}
+
+.topview{
+    margin-top: 50px;
+    padding-left: 30px;
+    background-color: rgb(139, 169, 140);
+    padding-bottom: 15px;
+    height: 60px;
+    margin-left: 40px;
+    width: 1250px;
+}
+
+.retetasapt{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.poza{
+    height: 350px;
+    width: 650px;
+    padding-bottom: 0px;
+}
+
+.retetatop{
+    margin-left: 10px;
+    display: inline-block;
+}
+.titluretetatop{
+    font-size: 20px;
+    cursor: pointer;
+    margin-left: 10px;
+    display: inline-block;
+    width: 650px;
+    margin-bottom: 0px;
+    font-weight: bold;
+}
+
+.titluretetatop:hover{
+    color: rgb(53, 79, 82);
+    transition: 0.3s;
+}
+
+.continut{
+    background-color: rgb(202, 210, 197);
+    margin-left: 40px;
+    width: 1280px;
+    display: inline-block;
+
+}.contacte{
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    margin-left: 15px;
+
+}
+
+
+.retele{
+    display: inline-block;
+    margin-left: 50px;
+    cursor: pointer;
+    vertical-align: top;
+    margin-top: 60px;
+}
+.retelep{
+    font-size: 30px;
+    margin-left: 10px;
+}
+
+.categorie{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    margin-left: 10px;
+    padding-left: 20px;
+    margin-top: 60px;
+    margin-bottom: 0px;
+    font-weight: bold;
+    display: inline-block;
+    width: 800px;
+
+}
+
+.linie{
+    background-color: rgb(53, 79, 82);
+    color: rgb(64, 183, 238);
+    margin-top: 0px;
+    height: 5px;
+    width: 1280px;
+}
+
+.linie1{
+    background-color: rgb(53, 79, 82);
+    color: rgb(64, 183, 238);
+    margin-top: 0px;
+    height: 5px;
+    width: 680px;
+}
+
+.abc{
+    margin-left: 15px;
+}
